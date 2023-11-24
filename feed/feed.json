@@ -1,0 +1,18 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Programming Lanugages",
+    "home_page_url": "https://michaelbeddev.github.io/projectJSON_RSS/",
+    "feed_url": "https://michaelbeddev.github.io/projectJSON_RSS/feed/feed.json",
+    "items": [
+    {
+    "id": "2",
+    "content_text": "This is Python",
+    "url": "https://michaelbeddev.github.io/projectJSON_RSS/python.html"
+    },
+    {
+    "id": "1",
+    "content_html": "<p>Hello, Java!</p>",
+    "url": "https://michaelbeddev.github.io/projectJSON_RSS/java.html"
+    }
+    ]
+   }
